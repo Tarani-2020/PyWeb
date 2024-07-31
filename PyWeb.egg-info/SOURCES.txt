@@ -1,0 +1,5 @@
+setup.py
+PyWeb.egg-info/PKG-INFO
+PyWeb.egg-info/SOURCES.txt
+PyWeb.egg-info/dependency_links.txt
+PyWeb.egg-info/top_level.txt
